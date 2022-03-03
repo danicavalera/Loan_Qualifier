@@ -25,7 +25,6 @@ Before running the application first install the following dependencies.
 This will allow user to import modules to call on functions:
 
 ![Imports](file:///Users/danica/Desktop/Starter_Code/loan_qualifier_app/data/images/imports.png)
-/Users/danica/Desktop/Starter_Code/loan_qualifier_app/data/images/imports.png?raw=true "Imports"
 ---
 
 ## Usage
