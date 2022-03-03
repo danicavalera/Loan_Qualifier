@@ -1,0 +1,970 @@
+   50  /usr/bin/python3 /Users/danica/Desktop/FinTech-Workspace/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+   51  /usr/bin/python3 /Users/danica/Desktop/FinTech-Workspace/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+   52  /usr/bin/python3 /Users/danica/Desktop/FinTech-Workspace/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+   53  /usr/bin/python3 /Users/danica/Desktop/FinTech-Workspace/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+   54  /usr/bin/python3 /Users/danica/Desktop/FinTech-Workspace/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+   55  /usr/bin/python3 /Users/danica/Desktop/FinTech-Workspace/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+   56  /usr/bin/python3 /Users/danica/Desktop/FinTech-Workspace/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+   57  /usr/bin/python3 /Users/danica/Desktop/FinTech-Workspace/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+   58  /usr/bin/python3 /Users/danica/Desktop/FinTech-Workspace/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+   59  /usr/bin/python3 /Users/danica/Desktop/FinTech-Workspace/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+   60  /usr/bin/python3 /Users/danica/Desktop/FinTech-Workspace/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+   61  /usr/bin/python3 /Users/danica/Desktop/FinTech-Workspace/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+   62  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+   63  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+   64  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+   65  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+   66  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+   67  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+   68  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+   69  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+   70  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+   71  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+   72  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+   73  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+   74  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+   75  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+   76  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+   77  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+   78  /usr/bin/python3 /Users/danica/Desktop/FinTech-Workspace/02_Listing_Assets/Unsolved/listing_assets.py
+   79  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+   80  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+   81  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+   82  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+   83  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+   84  /usr/bin/python3
+   85  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+   86  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+   87  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+   88  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+   89  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+   90  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+   91  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+   92  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+   93  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+   94  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+   95  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+   96  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+   97  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+   98  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+   99  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  100  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  101  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  102  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  103  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  104  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  105  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  106  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  107  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  108  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  109  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  110  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  111  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  112  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  113  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  114  /usr/bin/python3
+  115  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  116  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  117  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  118  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  119  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  120  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  121  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  122  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  123  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  124  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  125  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  126  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  127  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  128  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  129  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  130  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  131  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  132  /usr/bin/python3
+  133  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  134  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  135  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  136  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  137  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  138  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  139  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  140  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  141  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  142  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  143  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  144  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  145  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  146  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  147  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  148  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  149  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  150  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  151  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  152  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  153  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  154  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  155  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  156  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  157  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  158  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  159  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  160  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  161  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  162  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  163  /usr/bin/python3
+  164  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  165  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  166  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  167  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  168  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  169  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  170  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  171  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  172  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  173  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  174  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  175  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  176  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  177  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  178  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  179  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  180  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  181  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  182  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  183  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  184  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  185  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  186  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  187  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  188  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  189  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  190  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  191  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  192  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  193  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  194  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  195  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  196  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  197  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  198  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  199  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  200  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  201  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  202  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  203  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  204  /usr/bin/python3
+  205  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  206  /usr/bin/python3
+  207  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  208  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  209  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  210  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  211  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  212  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  213  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  214  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  215  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  216  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  217  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  218  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  219  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  220  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  221  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  222  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  223  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  224  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  225  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  226  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  227  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  228  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  229  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  230  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  231  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  232  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  233  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  234  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  235  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  236  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  237  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  238  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  239  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  240  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  241  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  242  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  243  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  244  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  245  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  246  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  247  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  248  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  249  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  250  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  251  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  252  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  253  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  254  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  255  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  256  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  257  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  258  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  259  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  260  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  261  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  262  /usr/bin/python3 "/Users/danica/Desktop/FinTech-Workspace/Module 2/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py"
+  263  /usr/bin/python3 "/Users/danica/Desktop/FinTech-Workspace/Module 2/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py"
+  264  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  265  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  266  conda activate dev
+  267  pip -V
+  268  pip freeze
+  269  pip install fire
+  270  pip install questionary
+  271  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_analyzer.py
+  272  /usr/bin/python3 "/Users/danica/Desktop/FinTech-Workspace/Module 2/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py"
+  273  /usr/bin/python3 "/Users/danica/Desktop/FinTech-Workspace/Module 2/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py"
+  274  /usr/bin/python3 "/Users/danica/Desktop/FinTech-Workspace/Module 2/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py"
+  275  ls
+  276  cd
+  277  /usr/bin/python3 "/Users/danica/Desktop/FinTech-Workspace/Module 2/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py"
+  278  cd
+  279  ls
+  280  Desktop
+  281  cd Desktop
+  282  ls
+  283  cd FinTech-Workspace
+  284  ls
+  285  cd Module 2
+  286  cd Module 2
+  287  /usr/bin/python3 "/Users/danica/Desktop/FinTech-Workspace/Module 2/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py"
+  288  /usr/bin/python3 "/Users/danica/Desktop/FinTech-Workspace/Module 2/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py"
+  289  /usr/bin/python3 "/Users/danica/Desktop/FinTech-Workspace/Module 2/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py"
+  290  /usr/bin/python3 "/Users/danica/Desktop/FinTech-Workspace/Module 2/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py"
+  291  /usr/bin/python3 "/Users/danica/Desktop/FinTech-Workspace/Module 2/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py"
+  292  /usr/bin/python3 "/Users/danica/Desktop/FinTech-Workspace/Module 2/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py"
+  293  /usr/bin/python3 "/Users/danica/Desktop/FinTech-Workspace/Module 2/01_Loan_Qualifier_Financial_Calculations/Solved/app.py"
+  294  /usr/bin/python3 "/Users/danica/Desktop/FinTech-Workspace/Module 2/01_Loan_Qualifier_Financial_Calculations/Solved/app.py"
+  295  /usr/bin/python3 "/Users/danica/Desktop/FinTech-Workspace/Module 2/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py"
+  296  /usr/bin/python3 "/Users/danica/Desktop/FinTech-Workspace/Module 2/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py"
+  297  /usr/bin/python3 "/Users/danica/Desktop/FinTech-Workspace/Module 2/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py"
+  298  /usr/bin/python3 "/Users/danica/Desktop/FinTech-Workspace/Module 2/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py"
+  299  /usr/bin/python3 "/Users/danica/Desktop/FinTech-Workspace/Module 2/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py"
+  300  /usr/bin/python3 "/Users/danica/Desktop/FinTech-Workspace/Module 2/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py"
+  301  /usr/bin/python3 "/Users/danica/Desktop/FinTech-Workspace/Module 2/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py"
+  302  /usr/bin/python3 "/Users/danica/Desktop/FinTech-Workspace/Module 2/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py"
+  303  /usr/bin/python3 "/Users/danica/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  304  /usr/bin/python3 "/Users/danica/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  305  /usr/bin/python3 "/Users/danica/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  306  /usr/bin/python3 "/Users/danica/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  307  /usr/bin/python3 "/Users/danica/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  308  /usr/bin/python3 "/Users/danica/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  309  ls
+  310  condo activate dev
+  311  conda activate dev
+  312  /usr/bin/python3 "/Users/danica/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  313  cd
+  314  ls
+  315  cd Desktop
+  316  ls
+  317  cd FinTech-Workspace
+  318  ls
+  319  cd Module 2
+  320  cd Module2
+  321  cd Module_2
+  322  ls
+  323  cd Module
+  324  cd Module 2
+  325  /usr/bin/python3 "/Users/danica/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/qualifier/app.py"
+  326  python app.py
+  327  $ python app.py
+  328  python app.py
+  329  /usr/bin/python3 "/Users/danica/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/qualifier/utils/fileio.py"
+  330  /usr/bin/python3 "/Users/danica/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/qualifier/utils/fileio.py"
+  331  /usr/bin/python3 "/Users/danica/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/qualifier/app.py"
+  332  /usr/bin/python3 "/Users/danica/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/qualifier/app.py"
+  333  /usr/bin/python3 "/Users/danica/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/qualifier/utils/fileio.py"
+  334  /usr/bin/python3 "/Users/danica/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/qualifier/utils/fileio.py"
+  335  /usr/bin/python3 "/Users/danica/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/qualifier/app.py"
+  336  /usr/bin/python3 "/Users/danica/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/qualifier/app.py"
+  337  /usr/bin/python3 "/Users/danica/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/qualifier/app.py"
+  338  /usr/bin/python3 "/Users/danica/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/qualifier/app.py"
+  339  /usr/bin/python3 "/Users/danica/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/qualifier/app.py"
+  340  /usr/bin/python3 "/Users/danica/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/qualifier/utils/calculators.py"
+  341  /usr/bin/python3 "/Users/danica/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/qualifier/app.py"
+  342  /usr/bin/python3 "/Users/danica/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/qualifier/utils/calculators.py"
+  343  /usr/bin/python3 "/Users/danica/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/qualifier/utils/calculators.py"
+  344  /usr/bin/python3 "/Users/danica/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/qualifier/utils/calculators.py"
+  345  /usr/bin/python3 "/Users/danica/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/qualifier/utils/fileio.py"
+  346  /usr/bin/python3 "/Users/danica/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/qualifier/utils/fileio.py"
+  347  /usr/bin/python3 "/Users/danica/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/qualifier/app.py"
+  348  /usr/bin/python3 "/Users/danica/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/qualifier/app.py"
+  349  /usr/bin/python3 "/Users/danica/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/qualifier/app.py"
+  350  /usr/bin/python3 "/Users/danica/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/qualifier/app.py"
+  351  sys.modules
+  352  /usr/bin/python3 "/Users/danica/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/qualifier/app.py"
+  353  export PYTHONPATH="${PYTHONPATH}:/path/to/your/project/"/Users/danica/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/qualifier
+  354  /usr/bin/python3 "/Users/danica/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/qualifier/app.py"
+  355  /usr/bin/python3 "/Users/danica/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/qualifier/app.py"
+  356  /usr/bin/python3 "/Users/danica/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/qualifier/app.py"
+  357  export PYTHONPATH="${PYTHONPATH}:/path/to/your/project/"
+  358  cd
+  359  cd
+  360  ls
+  361  cd Desktop
+  362  ls
+  363  cd 
+  364  cd Fin
+  365  cd
+  366  cd FinTech-Workspace
+  367  ls
+  368  Desktop
+  369  cd Desktop
+  370  ls
+  371  cd FinTech-Workspace
+  372  ls
+  373  cd Module 2
+  374  /usr/bin/python3 "/Users/danica/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/qualifier/app.py"
+  375  /usr/bin/python3 "/Users/danica/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/qualifier/app.py"
+  376  /usr/bin/python3 "/Users/danica/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/qualifier/app.py"
+  377  /usr/bin/python3 "/Users/danica/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/qualifier/app.py"
+  378  /usr/bin/python3 "/Users/danica/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/qualifier/app.py"
+  379  /usr/bin/python3 "/Users/danica/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/qualifier/app.py"
+  380  pip install qualifier
+  381  /usr/bin/python3 "/Users/danica/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/qualifier/app.py"
+  382  /usr/bin/python3 "/Users/danica/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/qualifier/app.py"
+  383  pip install qualifier
+  384  /Users/danica/opt/anaconda3/bin/python "/Users/danica/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/qualifier/app.py"
+  385  /usr/bin/python3 "/Users/danica/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/qualifier/app.py"
+  386  source /Users/danica/opt/anaconda3/bin/activate
+  387  conda activate base
+  388  /Users/danica/opt/anaconda3/bin/python "/Users/danica/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/qualifier/app.py"
+  389   pip install utils
+  390  /Users/danica/opt/anaconda3/bin/python "/Users/danica/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/qualifier/app.py"
+  391  source /Users/danica/opt/anaconda3/bin/activate
+  392  conda activate base
+  393  /Users/danica/opt/anaconda3/bin/python "/Users/danica/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/qualifier/app.py"
+  394  python -m pip install utils/Users/danica/opt/anaconda3/bin/python "/Users/danica/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/qualifier/app.py"
+  395   pip install utils\n
+  396  /usr/bin/python3 "/Users/danica/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/qualifier/app.py"
+  397  /Users/danica/opt/anaconda3/bin/python "/Users/danica/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/qualifier/app.py"
+  398  /usr/bin/python3 "/Users/danica/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/qualifier/app.py"
+  399  pip install qualifier
+  400  /Users/danica/opt/anaconda3/bin/python "/Users/danica/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/qualifier/app.py"
+  401  pip install qualifier
+  402  pip install python-utils
+  403  /Users/danica/opt/anaconda3/bin/python "/Users/danica/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/qualifier/app.py"
+  404  source /Users/danica/opt/anaconda3/bin/activate
+  405  conda activate base
+  406  /Users/danica/opt/anaconda3/bin/python "/Users/danica/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/qualifier/app.py"
+  407  /usr/bin/python3 "/Users/danica/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/qualifier/app.py"
+  408  pip install python-qualifiers
+  409  pip install python-qualifier
+  410  /usr/bin/python3 "/Users/danica/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/qualifier/app.py"
+  411  easy_install python-utils
+  412  /usr/bin/python3 "/Users/danica/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/qualifier/app.py"
+  413  /usr/bin/python3 "/Users/danica/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/qualifier/app.py"
+  414   /usr/bin/env /usr/bin/python3 /Users/danica/.vscode/extensions/ms-python.python-2022.0.1814523869/pythonFiles/lib/python/debugpy/launcher 61117 -- "/Users/danica/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/qualifier/utils/app.py" 
+  415  source /Users/danica/opt/anaconda3/bin/activate
+  416  conda activate base
+  417   /usr/bin/env /Users/danica/opt/anaconda3/bin/python /Users/danica/.vscode/extensions/ms-python.python-2022.0.1814523869/pythonFiles/lib/python/debugpy/launcher 61130 -- "/Users/danica/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/qualifier/utils/app.py" 
+  418  /usr/bin/python3 "/Users/danica/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/qualifier/app.py"
+  419  /usr/bin/python3 "/Users/danica/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/qualifier/utils/app.py"
+  420  /usr/bin/python3 "/Users/danica/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/qualifier/utils/app.py"
+  421  source /Users/danica/opt/anaconda3/bin/activate
+  422  conda activate base
+  423   /usr/bin/env /Users/danica/opt/anaconda3/bin/python /Users/danica/.vscode/extensions/ms-python.python-2022.0.1814523869/pythonFiles/lib/python/debugpy/launcher 61144 -- "/Users/danica/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/qualifier/utils/app.py" 
+  424  source /Users/danica/opt/anaconda3/bin/activate
+  425  conda activate base
+  426  /Users/danica/opt/anaconda3/bin/python "/Users/danica/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/qualifier/utils/app.py"
+  427  /Users/danica/opt/anaconda3/envs/dev/bin/python "/Users/danica/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/qualifier/utils/app.py"
+  428  pip install qualifier
+  429  pip install qualifier.utils
+  430  pip install qualifier-utils
+  431  pip install python-utils
+  432  /Users/danica/opt/anaconda3/bin/python "/Users/danica/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/qualifier/utils/app.py"
+  433  pip install python-utils
+  434  /Users/danica/opt/anaconda3/bin/python "/Users/danica/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/qualifier/utils/app.py"
+  435  source /Users/danica/opt/anaconda3/bin/activate
+  436  conda activate base
+  437  /Users/danica/opt/anaconda3/bin/python "/Users/danica/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/qualifier/utils/app.py"
+  438  /Users/danica/opt/anaconda3/bin/python
+  439  source /Users/danica/opt/anaconda3/bin/activate
+  440  conda activate base
+  441  /Users/danica/opt/anaconda3/bin/python "/Users/danica/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/qualifier/utils/app.py"
+  442  /Users/danica/opt/anaconda3/envs/dev/bin/python "/Users/danica/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/qualifier/utils/app.py"
+  443  /usr/bin/python3 "/Users/danica/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/qualifier/utils/app.py"
+  444  pip install python-utls
+  445  pip install python-utils
+  446  pip install python-fileio
+  447  /usr/bin/python3 "/Users/danica/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/qualifier/utils/app.py"
+  448  /usr/bin/python3 "/Users/danica/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/qualifier/app.py"
+  449  /usr/bin/python3 "/Users/danica/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/qualifier/app.py"
+  450  pip install qualifier
+  451  pip install python-qualifier
+  452  pip install utils
+  453  /usr/bin/python3 "/Users/danica/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/qualifier/app.py"
+  454  /usr/bin/python3 "/Users/danica/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/qualifier/app.py"
+  455  /usr/bin/python3 "/Users/danica/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/qualifier/app.py"
+  456  /usr/bin/python3 "/Users/danica/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/qualifier/app.py"
+  457  /usr/bin/python3 "/Users/danica/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/qualifier/app.py"
+  458  /usr/bin/python3 "/Users/danica/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/qualifier/app.py"
+  459  /usr/bin/python3 "/Users/danica/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/qualifier/app.py"
+  460  /usr/bin/python3 "/Users/danica/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/qualifier/app.py"
+  461  pip install qualifier
+  462  conda activate
+  463  pip install utils
+  464  pip install python-utils
+  465  /usr/bin/python3 "/Users/danica/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/qualifier/app.py"
+  466  /usr/bin/python3 "/Users/danica/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/qualifier/app.py"
+  467  /usr/bin/python3 "/Users/danica/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/qualifier/app.py"
+  468  /usr/bin/python3 "/Users/danica/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/qualifier/app.py"
+  469  /usr/bin/python3 "/Users/danica/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/qualifier/app.py"
+  470  /usr/bin/python3 "/Users/danica/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/qualifier/app.py"
+  471  /usr/bin/python3 "/Users/danica/Desktop/FinTech-Workspace/Module 2/02_Loan_Qualifier_Filtering_Data/Unsolved/qualifier/app.py"
+  472  pip install python-utils
+  473  pip install python-qualifier
+  474  cd Desktop
+  475  cd FinTech-Workspace
+  476  cd Module_2
+  477  ls
+  478  cd 02_Loan_Qualifier_Filtering_Data
+  479  pip installpython-qualifier
+  480  pip install pythong-qualifier
+  481  pip install python-qualifier
+  482  pip install qualifier
+  483  /usr/bin/python3 /Users/danica/Desktop/FinTech-Workspace/Module_2/02_Loan_Qualifier_Filtering_Data/Unsolved/qualifier/app.py
+  484  /usr/bin/python3 /Users/danica/Desktop/FinTech-Workspace/Module_2/02_Loan_Qualifier_Filtering_Data/Unsolved/qualifier/app.py
+  485  /Users/danica/opt/anaconda3/bin/python /Users/danica/Desktop/FinTech-Workspace/Module_2/02_Loan_Qualifier_Filtering_Data/Unsolved/qualifier/app.py
+  486  source /Users/danica/opt/anaconda3/bin/activate
+  487  conda activate base
+  488  /Users/danica/opt/anaconda3/bin/python /Users/danica/Desktop/FinTech-Workspace/Module_2/02_Loan_Qualifier_Filtering_Data/Unsolved/qualifier/app.py
+  489  /Users/danica/opt/anaconda3/bin/python /Users/danica/Desktop/FinTech-Workspace/Module_2/02_Loan_Qualifier_Filtering_Data/Unsolved/qualifier/app.py
+  490  source /Users/danica/opt/anaconda3/bin/activate
+  491  conda activate base
+  492  /Users/danica/opt/anaconda3/bin/python /Users/danica/Desktop/FinTech-Workspace/Module_2/02_Loan_Qualifier_Filtering_Data/Unsolved/qualifier/app.py
+  493  /Users/danica/opt/anaconda3/bin/python /Users/danica/Desktop/FinTech-Workspace/Module_2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  494  source /Users/danica/opt/anaconda3/bin/activate
+  495  conda activate base
+  496  /Users/danica/opt/anaconda3/bin/python /Users/danica/Desktop/FinTech-Workspace/Module_2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  497  /Users/danica/opt/anaconda3/bin/python /Users/danica/Desktop/FinTech-Workspace/Module_2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  498  source /Users/danica/opt/anaconda3/bin/activate
+  499  conda activate base
+  500  /Users/danica/opt/anaconda3/bin/python /Users/danica/Desktop/FinTech-Workspace/Module_2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  501  source /Users/danica/opt/anaconda3/bin/activate
+  502  conda activate base
+  503  /Users/danica/opt/anaconda3/bin/python /Users/danica/Desktop/FinTech-Workspace/Module_2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  504  source /Users/danica/opt/anaconda3/bin/activate
+  505  conda activate base
+  506  /Users/danica/opt/anaconda3/bin/python /Users/danica/Desktop/FinTech-Workspace/Module_2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  507  source /Users/danica/opt/anaconda3/bin/activate
+  508  conda activate base
+  509  /Users/danica/opt/anaconda3/bin/python /Users/danica/Desktop/FinTech-Workspace/Module_2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  510  /usr/bin/python3 /Users/danica/Desktop/FinTech-Workspace/Module_2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  511  /usr/bin/python3 /Users/danica/Desktop/FinTech-Workspace/Module_2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  512  /usr/bin/python3 /Users/danica/Desktop/FinTech-Workspace/Module_2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  513  /usr/bin/python3 /Users/danica/Desktop/FinTech-Workspace/Module_2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  514  /usr/bin/python3 /Users/danica/Desktop/FinTech-Workspace/Module_2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  515  /usr/bin/python3 /Users/danica/Desktop/FinTech-Workspace/Module_2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  516  /usr/bin/python3 /Users/danica/Desktop/FinTech-Workspace/Module_2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  517  /usr/bin/python3 /Users/danica/Desktop/FinTech-Workspace/Module_2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  518  cd Desktop
+  519  cd FinTech-Workspace
+  520  cd Module_2
+  521  ls
+  522  pip install qualifier
+  523  cd 02_Loan_Qualifier_Filtering_Data
+  524  pip install qualifier
+  525  pip install qualifier-utils
+  526  pip install qualifier.utils
+  527  pip install utils
+  528  pip install python-utils
+  529  pip uninstall qualifier
+  530  ls
+  531  cd Unsolved
+  532  ls
+  533  python app.py
+  534  /usr/bin/python3 /Users/danica/Desktop/FinTech-Workspace/Module_2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  535  cd Desktop
+  536  cd FinTech-Workspace
+  537  cd Module_2
+  538  ls
+  539  cd 01_Modularize_Your_Loan_Qualifier_Application_Part_2
+  540  ls
+  541  cd
+  542  ls
+  543  /usr/bin/python3 /Users/danica/Desktop/FinTech-Workspace/Module_2/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved/app.py
+  544  /usr/bin/python3 /Users/danica/Desktop/FinTech-Workspace/Module_2/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved/app.py
+  545  /usr/bin/python3 /Users/danica/Desktop/FinTech-Workspace/Module_2/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved/app.py
+  546  cd Desktop/Fintech-Workspace
+  547  cd Module_2
+  548  ls
+  549  cd 01_Modularize_Your_Loan_Qualifier_Application_Part_2
+  550  ls
+  551  cd Unsolved
+  552  ls
+  553  cd qualifier
+  554  python app.py
+  555  ...
+  556  cd...
+  557  cd Unsolved
+  558  cd ..
+  559  python app.py
+  560  python app.py
+  561  python app.py
+  562  python app.py
+  563  python app.py
+  564  python app.py
+  565  python app.py
+  566  python app.py
+  567  python app.py
+  568  import fire
+  569  /usr/bin/python3 /Users/danica/Desktop/FinTech-Workspace/Module_2/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved/app.py
+  570  /usr/bin/python3 /Users/danica/Desktop/FinTech-Workspace/Module_2/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved/app.py
+  571  /usr/bin/python3 /Users/danica/Desktop/FinTech-Workspace/cli.py
+  572  /usr/bin/python3 /Users/danica/Desktop/FinTech-Workspace/cli.py
+  573  pwd
+  574  pwd
+  575  pip install fire
+  576  import fire
+  577  cd Desktop/Fintech-Workspace
+  578  ls
+  579  cd cli.py
+  580  python cli.py
+  581  ;s
+  582  ls
+  583  cd Module_2
+  584  ls
+  585  cd 01_Adding_Fire_to_the_Loan_Qualifier_App
+  586  python app.py
+  587  python app.py
+  588  ls
+  589  cd Unsolved
+  590  python app.py
+  591  python app.py
+  592  python app.py --credit_score=750
+  593  python app.py
+  594  python app.py --credit_score=450
+  595  pip install questionary
+  596  cd Desktop/Fintech-Workspace/Module_2
+  597  ls
+  598  cd 02_Adding_questionary_to_Loan_Qualifier
+  599  ls
+  600  cd Unsolved
+  601  python app.py --credit_score=750 --debt=5000 --income=2000
+  602  python app.py --credit_score=750 --debt=5000 --income=20000
+  603  python app.py
+  604  python app.py
+  605  0.52
+  606  git config --global user.name <Danica Valera>
+  607  git config --global danica.valera
+  608  git config --global user.danicavalera
+  609  git config --global user.dvalera@uw.edu
+  610  git config --list
+  611  git config --global danicavalera
+  612  git config --global user.danicavalera
+  613  git config --list
+  614  cd
+  615  cd Desktop
+  616  cd Fintech-Workspace
+  617  git clone https://github.com/danicavalera/Test_Repo.git
+  618  git status
+  619  git add README.md
+  620  ls
+  621  Test_Repo
+  622  cd Test_Repo
+  623  git status
+  624  git add README.md
+  625  git status
+  626  git add README.md
+  627  git status
+  628  touch
+  629  ls
+  630  touch new
+  631  ls
+  632  git status
+  633  git add new
+  634  git status
+  635  git commit -m "Hi"
+  636  git status
+  637  /usr/bin/python3 /Users/danica/Desktop/loops-01.py
+  638  /usr/bin/python3 /Users/danica/Desktop/loops-01.py
+  639  /usr/bin/python3 /Users/danica/Desktop/loops-01.py
+  640  /usr/bin/python3 /Users/danica/Desktop/loops-01.py
+  641  /usr/bin/python3 /Users/danica/Desktop/loops-01.py
+  642  /usr/bin/python3 /Users/danica/Desktop/loops-01.py
+  643  /usr/bin/python3 /Users/danica/Desktop/loops-01.py
+  644  /usr/bin/python3 /Users/danica/Desktop/loops-01.py
+  645  /usr/bin/python3 /Users/danica/Desktop/loops-01.py
+  646  /usr/bin/python3 /Users/danica/Desktop/loops-01.py
+  647  /usr/bin/python3 /Users/danica/Desktop/loops-01.py
+  648  /usr/bin/python3 /Users/danica/Desktop/loops-01.py
+  649  /usr/bin/python3 /Users/danica/Desktop/loops-01.py
+  650  /usr/bin/python3 /Users/danica/Desktop/loops-01.py
+  651  /usr/bin/python3 /Users/danica/Desktop/loops-01.py
+  652  /usr/bin/python3 /Users/danica/Desktop/loops-01.py
+  653  clear
+  654  /usr/bin/python3 /Users/danica/Desktop/loops-01.py
+  655  /usr/bin/python3 /Users/danica/Desktop/loops-01.py
+  656  /usr/bin/python3 /Users/danica/Desktop/loops-01.py
+  657  /usr/bin/python3 /Users/danica/Desktop/loops-01.py
+  658  /usr/bin/python3 /Users/danica/Desktop/loops-01.py
+  659  /usr/bin/python3 /Users/danica/Desktop/loops-01.py
+  660  /usr/bin/python3 /Users/danica/Desktop/loops-01.py
+  661  /usr/bin/python3 /Users/danica/Desktop/loops-01.py
+  662  /usr/bin/python3 /Users/danica/Desktop/loops-01.py
+  663  /usr/bin/python3 /Users/danica/Desktop/loops-01.py
+  664  /usr/bin/python3 /Users/danica/Desktop/loops-01.py
+  665  /usr/bin/python3 /Users/danica/Desktop/loops-01.py
+  666  /usr/bin/python3 /Users/danica/Desktop/loops-01.py
+  667  /usr/bin/python3 /Users/danica/Desktop/loops-01.py
+  668  /usr/bin/python3 /Users/danica/Desktop/loops-01.py
+  669  /usr/bin/python3 /Users/danica/Desktop/loops-01.py
+  670  /usr/bin/python3 /Users/danica/Desktop/loops-01.py
+  671  /usr/bin/python3 /Users/danica/Desktop/loops-01.py
+  672  /usr/bin/python3 /Users/danica/Desktop/loops-01.py
+  673  /usr/bin/python3 /Users/danica/Desktop/loops-01.py
+  674  /usr/bin/python3 /Users/danica/Desktop/loops-01.py
+  675  /usr/bin/python3 /Users/danica/Desktop/loops-01.py
+  676  /usr/bin/python3 /Users/danica/Desktop/loops-01.py
+  677  /usr/bin/python3 /Users/danica/Desktop/loops-01.py
+  678  /usr/bin/python3 /Users/danica/Desktop/loops-01.py
+  679  /usr/bin/python3 /Users/danica/Desktop/loops-01.py
+  680  /usr/bin/python3 /Users/danica/Desktop/loops-01.py
+  681  /usr/bin/python3 /Users/danica/Desktop/loops-01.py
+  682  /usr/bin/python3 /Users/danica/Desktop/loops-01.py
+  683  /usr/bin/python3 /Users/danica/Desktop/loops-01.py
+  684  /usr/bin/python3 /Users/danica/Desktop/loops-01.py
+  685  /usr/bin/python3 /Users/danica/Desktop/loops-01.py
+  686  /usr/bin/python3 /Users/danica/Desktop/loops-01.py
+  687  /usr/bin/python3 /Users/danica/Desktop/loops-01.py
+  688  /usr/bin/python3 /Users/danica/Desktop/loops-01.py
+  689  /usr/bin/python3 /Users/danica/Desktop/loops-01.py
+  690  /usr/bin/python3 /Users/danica/Desktop/loops-01.py
+  691  /usr/bin/python3 /Users/danica/Desktop/loops-01.py
+  692  /usr/bin/python3 /Users/danica/Desktop/loops-01.py
+  693  /usr/bin/python3 /Users/danica/Desktop/loops-01.py
+  694  /usr/bin/python3 /Users/danica/Desktop/loops-01.py
+  695  /usr/bin/python3 /Users/danica/Desktop/Practice/csv-01.py
+  696  /usr/bin/python3 /Users/danica/Desktop/Practice/csv-01.py
+  697  /usr/bin/python3 /Users/danica/Desktop/Practice/csv-01.py
+  698  /usr/bin/python3 /Users/danica/Desktop/Practice/csv-01.py
+  699  /usr/bin/python3 /Users/danica/Desktop/Practice/csv-01.py
+  700  /usr/bin/python3 /Users/danica/Desktop/Practice/csv-01.py
+  701  /usr/bin/python3 /Users/danica/Desktop/Practice/csv-01.py
+  702  git clone https://github.com/danicavalera/Module2.git
+  703  cd
+  704  cd Desktop
+  705  cd Starter_Code
+  706  git clone https://github.com/danicavalera/Module2.git
+  707  cd Practice
+  708  cd Desktop/Practice
+  709  ls
+  710  cd ..
+  711  cd Practice
+  712  ls
+  713  cd csv-01.py
+  714  cd csv-01.py
+  715  python csv-01.py
+  716  python csv-01.py
+  717  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_qualifier_app/app.py
+  718  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_qualifier_app/app.py
+  719  import fire
+  720  pip install fire
+  721  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_qualifier_app/app.py
+  722  /usr/bin/python3 /Users/danica/Desktop/FinTech-Workspace/Module_2/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py
+  723  conda activate dev
+  724  conda list pandas
+  725  conda list jupyterlab
+  726  clear
+  727  python -m ipykernel install --user --name dev --display-name "Python (dev)"
+  728  jupyter lab
+  729  conda list jupyterlan
+  730  conda list jupyterlab
+  731  conda list
+  732  conda activate dev
+  733  jupyter lab
+  734  conda update conda
+  735  jupyterlab
+  736  jupyter lab
+  737  import pandas as pd\nfrom pathlib import Path\n\ncsvpath = Path("../Resources/sales.csv")\nsales_dataframe = pd.read_csv(csvpath)
+  738  conda activate dev
+  739  import pandas as pd\nfrom pathlib import Path\n\ncsvpath = Path("../Resources/sales.csv")\nsales_dataframe = pd.read_csv(csvpath)
+  740  pip install fire
+  741  cd Desktop/Fintech-Workspace/Module2
+  742  cd Desktop/Fintech-Workspace
+  743  ls
+  744  cd Module_2
+  745  ls
+  746  cd 01_Adding_Fire_to_the_Loan_Qualifier_App
+  747  python app.py
+  748  ls
+  749  cd Unsolved
+  750  ls
+  751  python app.py
+  752  cd app.py
+  753  python app.py
+  754  python
+  755  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_qualifier_app/app.py
+  756  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_qualifier_app/app.py
+  757  pip3 install questionary
+  758  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_qualifier_app/app.py
+  759  pip install fire
+  760  pip3 install fire
+  761  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_qualifier_app/app.py
+  762  /usr/bin/python3 /Users/danica/Desktop/FinTech-Workspace/Module_1/Github_Upload/loan_analyzer.py
+  763  /usr/bin/python3 /Users/danica/Desktop/FinTech-Workspace/Module_1/Github_Upload/loan_analyzer.py
+  764  /usr/bin/python3 /Users/danica/Desktop/FinTech-Workspace/Module_1/Github_Upload/loan_analyzer.py
+  765  /usr/bin/python3 /Users/danica/Desktop/FinTech-Workspace/Module_1/Github_Upload/loan_analyzer.py
+  766  /usr/bin/python3 /Users/danica/Desktop/FinTech-Workspace/Module_1/Github_Upload/loan_analyzer.py
+  767  /usr/bin/python3 /Users/danica/Desktop/FinTech-Workspace/Module_1/Github_Upload/loan_analyzer.py
+  768  /usr/bin/python3 /Users/danica/Desktop/FinTech-Workspace/Module_1/Github_Upload/loan_analyzer.py
+  769  /usr/bin/python3 /Users/danica/Desktop/FinTech-Workspace/Module_1/Github_Upload/loan_analyzer.py
+  770  /usr/bin/python3 /Users/danica/Desktop/FinTech-Workspace/Module_1/Github_Upload/loan_analyzer.py
+  771  /usr/bin/python3 /Users/danica/Desktop/FinTech-Workspace/Module_1/Github_Upload/loan_analyzer.py
+  772  /usr/bin/python3 /Users/danica/Desktop/FinTech-Workspace/Module_1/Github_Upload/loan_analyzer.py
+  773  /usr/bin/python3 /Users/danica/Desktop/FinTech-Workspace/Module_1/Github_Upload/loan_analyzer.py
+  774  /usr/bin/python3 /Users/danica/Desktop/FinTech-Workspace/Module_1/Github_Upload/loan_analyzer.py
+  775  /usr/bin/python3 /Users/danica/Desktop/FinTech-Workspace/Module_1/Github_Upload/loan_analyzer.py
+  776  /usr/bin/python3 /Users/danica/Desktop/FinTech-Workspace/Module_1/Github_Upload/loan_analyzer.py
+  777  /usr/bin/python3 /Users/danica/Desktop/FinTech-Workspace/Module_1/Github_Upload/loan_analyzer.py
+  778  /usr/bin/python3 /Users/danica/Desktop/FinTech-Workspace/Module_1/Github_Upload/loan_analyzer.py
+  779  /usr/bin/python3 /Users/danica/Desktop/FinTech-Workspace/Module_1/Github_Upload/loan_analyzer.py
+  780  /usr/bin/python3 /Users/danica/Desktop/FinTech-Workspace/Module_1/Github_Upload/loan_analyzer.py
+  781  /usr/bin/python3 /Users/danica/Desktop/FinTech-Workspace/Module_1/Github_Upload/loan_analyzer.py
+  782  /usr/bin/python3 /Users/danica/Desktop/FinTech-Workspace/Module_1/Github_Upload/loan_analyzer.py
+  783  /usr/bin/python3 /Users/danica/Desktop/FinTech-Workspace/Module_1/Github_Upload/loan_analyzer.py
+  784  /usr/bin/python3 /Users/danica/Desktop/FinTech-Workspace/Module_1/Github_Upload/loan_analyzer.py
+  785  /usr/bin/python3 /Users/danica/Desktop/FinTech-Workspace/Module_1/Github_Upload/loan_analyzer.py
+  786  /usr/bin/python3 /Users/danica/Desktop/FinTech-Workspace/Module_1/Github_Upload/loan_analyzer.py
+  787  /usr/bin/python3 /Users/danica/Desktop/FinTech-Workspace/Module_1/Github_Upload/loan_analyzer.py
+  788  /usr/bin/python3 /Users/danica/Desktop/FinTech-Workspace/Module_1/Github_Upload/loan_analyzer.py
+  789  /usr/bin/python3 /Users/danica/Desktop/FinTech-Workspace/Module_1/Github_Upload/loan_analyzer.py
+  790  /usr/bin/python3 /Users/danica/Desktop/FinTech-Workspace/Module_1/Github_Upload/loan_analyzer.py
+  791  /usr/bin/python3 /Users/danica/Desktop/FinTech-Workspace/Module_1/Github_Upload/loan_analyzer.py
+  792  /usr/bin/python3 /Users/danica/Desktop/FinTech-Workspace/Module_1/Github_Upload/loan_analyzer.py
+  793  /usr/bin/python3 /Users/danica/Desktop/FinTech-Workspace/Module_1/Github_Upload/loan_analyzer.py
+  794  /usr/bin/python3 /Users/danica/Desktop/FinTech-Workspace/Module_1/Github_Upload/loan_analyzer.py
+  795  /usr/bin/python3 /Users/danica/Desktop/FinTech-Workspace/Module_1/Github_Upload/loan_analyzer.py
+  796  /usr/bin/python3 /Users/danica/Desktop/FinTech-Workspace/Module_1/Github_Upload/loan_analyzer.py
+  797  /usr/bin/python3 /Users/danica/Desktop/FinTech-Workspace/Module_1/Github_Upload/loan_analyzer.py
+  798  /usr/bin/python3 /Users/danica/Desktop/FinTech-Workspace/Module_1/Github_Upload/loan_analyzer.py
+  799  /usr/bin/python3 /Users/danica/Desktop/FinTech-Workspace/Module_1/Github_Upload/loan_analyzer.py
+  800  /usr/bin/python3 /Users/danica/Desktop/FinTech-Workspace/Module_1/Github_Upload/loan_analyzer.py
+  801  /usr/bin/python3 /Users/danica/Desktop/FinTech-Workspace/Module_1/Github_Upload/loan_analyzer.py
+  802  /usr/bin/python3 /Users/danica/Desktop/FinTech-Workspace/Module_1/Github_Upload/loan_analyzer.py
+  803  /usr/bin/python3 /Users/danica/Desktop/FinTech-Workspace/Module_1/Github_Upload/loan_analyzer.py
+  804  /usr/bin/python3 /Users/danica/Desktop/FinTech-Workspace/Module_1/Github_Upload/loan_analyzer.py
+  805  /usr/bin/python3 /Users/danica/Desktop/FinTech-Workspace/Module_1/Github_Upload/loan_analyzer.py
+  806  /usr/bin/python3 /Users/danica/Desktop/FinTech-Workspace/Module_1/Github_Upload/loan_analyzer.py
+  807  /usr/bin/python3 /Users/danica/Desktop/FinTech-Workspace/Module_1/Github_Upload/loan_analyzer.py
+  808  /usr/bin/python3 /Users/danica/Desktop/FinTech-Workspace/Module_1/Github_Upload/loan_analyzer.py
+  809  /usr/bin/python3 /Users/danica/Desktop/FinTech-Workspace/Module_1/Github_Upload/loan_analyzer.py
+  810  /usr/bin/python3 /Users/danica/Desktop/FinTech-Workspace/Module_1/Github_Upload/loan_analyzer.py
+  811  /usr/bin/python3 /Users/danica/Desktop/FinTech-Workspace/Module_1/Github_Upload/loan_analyzer.py
+  812  /usr/bin/python3 /Users/danica/Desktop/FinTech-Workspace/Module_1/Github_Upload/loan_analyzer.py
+  813  /usr/bin/python3 /Users/danica/Desktop/FinTech-Workspace/Module_1/Github_Upload/loan_analyzer.py
+  814  /usr/bin/python3 /Users/danica/Desktop/FinTech-Workspace/Module_1/Github_Upload/loan_analyzer.py
+  815  /usr/bin/python3 /Users/danica/Desktop/FinTech-Workspace/Module_1/Github_Upload/loan_analyzer.py
+  816  /usr/bin/python3 /Users/danica/Desktop/FinTech-Workspace/Module_1/Github_Upload/loan_analyzer.py
+  817  /usr/bin/python3 /Users/danica/Desktop/FinTech-Workspace/Module_1/Github_Upload/loan_analyzer.py
+  818  /usr/bin/python3 /Users/danica/Desktop/FinTech-Workspace/Module_1/Github_Upload/loan_analyzer.py
+  819  /usr/bin/python3 /Users/danica/Desktop/FinTech-Workspace/Module_1/Github_Upload/loan_analyzer.py
+  820  /usr/bin/python3 /Users/danica/Desktop/FinTech-Workspace/Module_1/Github_Upload/loan_analyzer.py
+  821  /usr/bin/python3 /Users/danica/Desktop/FinTech-Workspace/Module_1/Github_Upload/loan_analyzer.py
+  822  /usr/bin/python3 /Users/danica/Desktop/FinTech-Workspace/Module_1/Github_Upload/loan_analyzer.py
+  823  /usr/bin/python3 /Users/danica/Desktop/FinTech-Workspace/Module_1/Github_Upload/loan_analyzer.py
+  824  /usr/bin/python3 /Users/danica/Desktop/FinTech-Workspace/Module_1/Github_Upload/loan_analyzer.py
+  825  /usr/bin/python3 /Users/danica/Desktop/FinTech-Workspace/Module_1/Github_Upload/loan_analyzer.py
+  826  /usr/bin/python3 /Users/danica/Desktop/FinTech-Workspace/Module_1/Github_Upload/loan_analyzer.py
+  827  /usr/bin/python3 /Users/danica/Desktop/FinTech-Workspace/Module_1/Github_Upload/loan_analyzer.py
+  828  /usr/bin/python3 /Users/danica/Desktop/FinTech-Workspace/Module_1/Github_Upload/loan_analyzer.py
+  829  /usr/bin/python3 /Users/danica/Desktop/FinTech-Workspace/Module_1/Github_Upload/loan_analyzer.py
+  830  /usr/bin/python3 /Users/danica/Desktop/FinTech-Workspace/Module_1/Github_Upload/loan_analyzer.py
+  831  /usr/bin/python3 /Users/danica/Desktop/FinTech-Workspace/Module_1/Github_Upload/loan_analyzer.py
+  832  /usr/bin/python3 /Users/danica/Desktop/FinTech-Workspace/Module_1/Github_Upload/loan_analyzer.py
+  833  /usr/bin/python3 /Users/danica/Desktop/FinTech-Workspace/Module_1/Github_Upload/loan_analyzer.py
+  834  /usr/bin/python3 /Users/danica/Desktop/FinTech-Workspace/Module_1/Github_Upload/loan_analyzer.py
+  835  /usr/bin/python3 /Users/danica/Desktop/FinTech-Workspace/Module_1/Github_Upload/loan_analyzer.py
+  836  /usr/bin/python3 /Users/danica/Desktop/FinTech-Workspace/Module_1/Github_Upload/loan_analyzer.py
+  837  /usr/bin/python3 /Users/danica/Desktop/FinTech-Workspace/Module_1/Github_Upload/loan_analyzer.py
+  838  /usr/bin/python3 /Users/danica/Desktop/FinTech-Workspace/Module_1/Github_Upload/loan_analyzer.py
+  839  /usr/bin/python3 /Users/danica/Desktop/FinTech-Workspace/Module_1/Github_Upload/loan_analyzer.py
+  840  ;2D/usr/bin/python3 /Users/danica/Desktop/FinTech-Workspace/Module_1/Github_Upload/loan_analyzer.py
+  841  /usr/bin/python3 /Users/danica/Desktop/FinTech-Workspace/Module_1/Github_Upload/loan_analyzer.py
+  842  /usr/bin/python3 /Users/danica/Desktop/FinTech-Workspace/Module_1/Github_Upload/loan_analyzer.py
+  843  /usr/bin/python3 /Users/danica/Desktop/FinTech-Workspace/Module_1/Github_Upload/loan_analyzer.py
+  844  /usr/bin/python3 /Users/danica/Desktop/FinTech-Workspace/Module_1/Github_Upload/loan_analyzer.py
+  845  /usr/bin/python3 /Users/danica/Desktop/FinTech-Workspace/Module_1/Github_Upload/loan_analyzer.py
+  846  cd Desktop/Fintech-Workspace/Module_2/Unsolved
+  847   cd Desktop/Fintech-Workspace/Module_2
+  848  ls
+  849  cd 01_Adding_Fire_to_the_Loan_Qualifier_App
+  850  ls
+  851  cd Unsolved
+  852  python app.py
+  853  cd app.py
+  854  cd Unsolved
+  855  ls
+  856  cd app.py
+  857  python app.py
+  858  pip install fire
+  859  update
+  860  /usr/bin/python3 /Users/danica/Desktop/FinTech-Workspace/Module_1/Github_Upload/loan_analyzer.py
+  861  /usr/bin/python3 /Users/danica/Desktop/FinTech-Workspace/Module_1/Github_Upload/loan_analyzer.py
+  862  import pandas as pd\nfrom pathlib import Path\n\ncsvpath = Path("../Resources/sales.csv")\nsales_dataframe = pd.read_csv(csvpath)
+  863  cd
+  864  ls
+  865  cd Desktop/Module_3
+  866  ld
+  867  ls
+  868  cd 01_Import_Data
+  869  import pandas as pd\nfrom pathlib import Path\n\ncsvpath = Path("../Resources/sales.csv")\nsales_dataframe = pd.read_csv(csvpath)
+  870  ls
+  871  import pandas as pd
+  872  conda update conda
+  873  import pandas as pd
+  874  jupyter lab
+  875  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_qualifier_app/app.py
+  876  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_qualifier_app/app.py
+  877  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_qualifier_app/app.py
+  878  /Users/danica/Desktop/Starter_Code/loan_qualifier_app/data/daily_rate_sheet.csv
+  879  python daily_rate_sheet
+  880  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_qualifier_app/app.py
+  881  ls
+  882  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_qualifier_app/app.py
+  883  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_qualifier_app/app.py
+  884  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_qualifier_app/app.py
+  885  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_qualifier_app/app.py
+  886  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_qualifier_app/app.py
+  887  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_qualifier_app/app.py
+  888  /Users/danica/Desktop/Starter_Code/loan_qualifier_app/data/daily_rate_sheet.csv
+  889  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_qualifier_app/app.py
+  890  app.py
+  891  cd Desktop/Module_3
+  892  jupyter lab
+  893  cd
+  894  ls
+  895  cd Desktop
+  896  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_qualifier_app/app.py
+  897  qualifying_loans = questionary.confirm("Do you want to save your qualifying loans?").ask
+  898  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_qualifier_app/app.py
+  899  daily_rate_sheet.csv
+  900  ../daily_rate_sheet.csv
+  901  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_qualifier_app/app.py
+  902  daily rate sheet
+  903  daily_rate_sheet
+  904  python app.py
+  905  python3 app.py
+  906  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_qualifier_app/app.py
+  907  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_qualifier_app/app.py
+  908  python3 app.py
+  909  python
+  910  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_qualifier_app/app.py
+  911  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_qualifier_app/app.py
+  912  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_qualifier_app/app.py
+  913  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_qualifier_app/app.py
+  914  Path
+  915  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_qualifier_app/app.py
+  916  1
+  917  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_qualifier_app/app.py
+  918  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_qualifier_app/app.py
+  919  no
+  920  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_qualifier_app/app.py
+  921  /usr/bin/python3
+  922  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_qualifier_app/app.py
+  923  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_qualifier_app/app.py
+  924  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_qualifier_app/app.py
+  925  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_qualifier_app/app.py
+  926  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_qualifier_app/app.py
+  927  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_qualifier_app/app.py
+  928  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_qualifier_app/app.py
+  929  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_qualifier_app/app.py
+  930  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_qualifier_app/app.py
+  931  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_qualifier_app/app.py
+  932  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_qualifier_app/app.py
+  933  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_qualifier_app/app.py
+  934  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_qualifier_app/app.py
+  935  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_qualifier_app/app.py
+  936  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_qualifier_app/app.py
+  937  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_qualifier_app/app.py
+  938  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_qualifier_app/app.py
+  939  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_qualifier_app/app.py
+  940  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_qualifier_app/app.py
+  941  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_qualifier_app/app.py
+  942  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_qualifier_app/app.py
+  943  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_qualifier_app/qualifier/utils/fileio.py
+  944  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_qualifier_app/app.py
+  945  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_qualifier_app/qualifier/utils/fileio.py
+  946  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_qualifier_app/app.py
+  947  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_qualifier_app/app.py
+  948  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_qualifier_app/qualifier/utils/fileio.py
+  949  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_qualifier_app/app.py
+  950  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_qualifier_app/app.py
+  951  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_qualifier_app/app.py
+  952  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_qualifier_app/app.py
+  953  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_qualifier_app/qualifier/utils/fileio.py
+  954  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_qualifier_app/app.py
+  955  /usr/bin/python3
+  956  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_qualifier_app/app.py
+  957  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_qualifier_app/qualifier/utils/fileio.py
+  958  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_qualifier_app/qualifier/utils/fileio.py
+  959  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_qualifier_app/app.py
+  960  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_qualifier_app/app.py
+  961  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_qualifier_app/app.py
+  962  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_qualifier_app/app.py
+  963  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_qualifier_app/app.py
+  964  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_qualifier_app/app.py
+  965  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_qualifier_app/app.py
+  966  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_qualifier_app/app.py
+  967  cd Desktop/Module_3
+  968  conda activate dev
+  969  jupyter lab
+  970  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_qualifier_app/app.py
+  971  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_qualifier_app/app.py
+  972  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_qualifier_app/app.py
+  973  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_qualifier_app/qualifier/utils/fileio.py
+  974  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_qualifier_app/app.py
+  975  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_qualifier_app/app.py
+  976  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_qualifier_app/app.py
+  977  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_qualifier_app/app.py
+  978  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_qualifier_app/app.py
+  979  history 50 > terminal_history.txt
+  980  cd Desktop
+  981  ls
+  982  cd FinTech-Workspace
+  983  ls
+  984  cd Module_2
+  985  ls
+  986  ..
+  987  cd ..
+  988  cd ..
+  989  cd Starter_Code
+  990  ls
+  991  cd loan_qualifier_app
+  992  history 50 > terminal_history.txt
+  993  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_qualifier_app/app.py
+  994  cd Desktop/Module_3
+  995  conda activate dev
+  996  jupyter lab
+  997  cd Desktop/Module_3
+  998  condo activate dev
+  999  conda activate dev
+ 1000  jupyter lab
+ 1001  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_qualifier_app/app.py
+ 1002  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_qualifier_app/app.py
+ 1003  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_qualifier_app/app.py
+ 1004  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_qualifier_app/app.py
+ 1005  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_qualifier_app/app.py
+ 1006  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_qualifier_app/app.py
+ 1007  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_qualifier_app/app.py
+ 1008  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_qualifier_app/app.py
+ 1009  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_qualifier_app/app.py
+ 1010  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_qualifier_app/app.py
+ 1011  /usr/bin/python3
+ 1012  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_qualifier_app/app.py
+ 1013  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_qualifier_app/app.py
+ 1014  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_qualifier_app/app.py
+ 1015  /usr/bin/python3
+ 1016  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_qualifier_app/app.py
+ 1017  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_qualifier_app/app.py
+ 1018  /usr/bin/python3 /Users/danica/Desktop/Starter_Code/loan_qualifier_app/app.py
+ 1019  cd Desktop/Starter_Code
