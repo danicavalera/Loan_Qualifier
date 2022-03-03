@@ -24,7 +24,7 @@ Before running the application first install the following dependencies.
 
 This will allow user to import modules to call on functions:
 
-![Imports](file:///Users/danica/Desktop/Starter_Code/loan_qualifier_app/data/images/imports.png)
+![Imports](https://github.com/danicavalera/Module2/blob/main/Starter_Code/loan_qualifier_app/data/images/imports.png)
 ---
 
 ## Usage
@@ -37,7 +37,7 @@ python app.py
 
 Upon launching the loan qualifier application you will be greeted with the following prompts.
 
-![Loan Qualifier Prompts](file:///Users/danica/Desktop/Starter_Code/loan_qualifier_app/data/images/loan_qualifier_prompts.png)
+![Loan Qualifier Prompts](https://github.com/danicavalera/Module2/blob/main/Starter_Code/loan_qualifier_app/data/images/loan_qualifier_prompts.png)
 
 ## Contributors
 
